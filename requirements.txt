@@ -3,5 +3,4 @@ pandas
 plotly
 numpy
 openpyxl
-matplotlib.pyplot
-matplotlib.ticker
+
